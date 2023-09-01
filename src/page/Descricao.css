@@ -1,0 +1,36 @@
+.description {
+    background-color: aqua;
+    display: flex;
+    gap: 30px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.styleSubTitulo {
+    font-size: 40px;
+    color: rgb(18, 84, 96);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagemDescricao {
+    margin-top: 30px;
+    width: 30rem;
+    max-height: 100%;
+    border-radius: 8px;
+}
+
+.textDescricao {
+    font-size: 20px;
+
+}
+
+.language {
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: red;
+    padding: 10px;
+}

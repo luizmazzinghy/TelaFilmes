@@ -1,0 +1,56 @@
+.listCategoria {
+    display: flex;
+    gap: 2rem;
+    padding: 30px;
+    align-items: flex-end;
+
+}
+
+
+.tituloCard {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 5px;
+}
+
+.titleFilme {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.categoria {
+    overflow: auto;
+    background-color: rgb(201, 220, 235);
+
+}
+
+.imagem {
+    object-fit: cover;
+    border-radius: 7px;
+
+}
+
+.imagem.imagem {
+    width: 166px;
+    height: 243px;
+
+}
+
+.title {
+    margin-bottom: 15px;
+    color: black;
+    font-size: 15px;
+}
+
+.main {
+    font-size: 50px;
+    margin-left: 20px;
+    color: rgb(245, 146, 18);
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+.link {
+    text-decoration: none;
+}

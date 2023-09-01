@@ -1,0 +1,30 @@
+.header {
+    background-color: green;
+    display: flex;
+    align-items: center;
+
+}
+
+.img {
+    height: 3rem;
+    width: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    width: 20rem;
+    height: 1.7rem;
+    margin-left: 5rem;
+    border-radius: 5px;
+}
+
+.btn {
+    height: 33.5px;
+    color: #0f0f0f;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    margin: 0;
+    cursor: pointer;
+}
